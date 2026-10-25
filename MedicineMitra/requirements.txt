@@ -1,0 +1,7 @@
+
+streamlit
+sarvamai
+python-dotenv
+requests
+Pillow
+dotenv
